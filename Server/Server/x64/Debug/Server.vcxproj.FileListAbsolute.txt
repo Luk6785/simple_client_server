@@ -1,0 +1,4 @@
+C:\Users\Luk\OneDrive - Hanoi University of Science and Technology\Desktop\Soket\Server\Server\x64\Debug\Server.vcxproj.AssemblyReference.cache
+C:\Users\Luk\OneDrive - Hanoi University of Science and Technology\Desktop\Soket\Server\Server\x64\Debug\Server.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Luk\OneDrive - Hanoi University of Science and Technology\Desktop\Soket\Server\Server\x64\Debug\Server.MyForm.resources
+C:\Users\Luk\OneDrive - Hanoi University of Science and Technology\Desktop\Soket\Server\Server\x64\Debug\Server.vcxproj.GenerateResource.cache
